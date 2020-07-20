@@ -1,5 +1,5 @@
 baseURL = "https://sheffield-bionics.gitlab.io/bionics-general/"
-title = "Bionics General"
+title = "Bionics Bootcamp"
 
 theme = "minimo"
 
@@ -76,6 +76,12 @@ name = "Repo"
 weight = -10
 identifier = "repository"
 url = "https://gitlab.com/sheffield-bionics/bionics-general"
+
+[[menu.main]]
+name = "Society"
+weight = -20
+identifier = "society"
+url = "https://sheffield-bionics.gitlab.io/"
 
 [languages]
 # edit this block for your own language

@@ -1,0 +1,11 @@
+id = "tll"
+
+[email]
+username = "b.j.rady"
+host = "gmail.com"
+
+[name]
+display = "Brooks J Rady"
+
+[social]
+twitter = "thelostlambda"
