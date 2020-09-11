@@ -55,8 +55,8 @@ Digital Tools & Platforms
 Content
 =======
 
-Level 1 (Intro to Programming & Python Basics)
-----------------------------------------------
+Level 1 (Programming & Python Basics)
+-------------------------------------
 
 ### Topics
 
@@ -218,13 +218,32 @@ Level 4 (Functional Programming)
     -   Declarative vs imperative
     -   Why use it?
 -   Higher-order functions \[15m\]
-    -   Built-in (`map`, `filter`, `sort`, etc)
+    -   Built-in (`map`, `filter`, `sorted`, etc)
     -   Lambda functions
 -   Iterators \[15m\]
     -   Consuming functions (`sum`, `max`, `zip`, `enumerate`, `all`,
         etc)
     -   Generators (`yield`)
+    -   Basic itertools (`islice`, `count`, `cycle`, etc)
 -   Generators & Comprehensions \[15m\]
     -   Mapping
     -   Filtering
     -   Generators vs lists
+
+### Exercises
+
+-   Fibonacci Generator
+    1.  Write a generator that yields the next Fibonacci number
+        infinitely
+    2.  Use itertools to get the first N numbers from the generator
+-   Triangle Comprehension
+    1.  Use a list comprehension to list all possible triangles with
+        integer side-lengths of 10 or less (as tuples of the 3 side
+        lengths)
+    2.  Restrict the comprehension to only list right triangles
+        (following Pythagorean theorem and C \>= A + B)
+    3.  Find the triangle with a parameter of 24
+-   Higher Order Functions
+    1.  Reusing the list of right triangles from part 2 of the last
+        exercise, extend it to include side-lengths 1-20
+    2.  Sort the triangles by largest to smallest parameter
