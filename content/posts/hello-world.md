@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2020-04-30T11:01:13+01:00
-draft: false
+draft: true
 ---
 
 This is a test of the Bionics General resource site! There is a long ways to go,
