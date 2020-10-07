@@ -15,7 +15,7 @@ tags:
 
 # Important Note
 
-This is worksheet is meant to be interactive! I'd **highly recommend** you copy [this document](https://colab.research.google.com/drive/1y0UbIIXZJM_6kVTnEYq6eaUxPRL4Z3f_?usp=sharing) to your Google Drive and go through it in Google Colaboratory. This page is here primarily for archival purposes.
+This is worksheet is meant to be interactive! I'd **highly recommend** you copy [this document](https://colab.research.google.com/drive/1y0UbIIXZJM_6kVTnEYq6eaUxPRL4Z3f_?usp=sharing) to your Google Drive and go through it in Google Colaboratory. This page is here primarily for archival purposes. If you are looking for example solutions to the exercises, you can find those [here](https://gitlab.com/sheffield-bionics/bootcamp-resources/-/blob/master/Python/level1.py).
 
 # Basics of Programming & Python
 
@@ -34,7 +34,7 @@ Finally, many of the projects run by Sheffield Bionics rely on code to tie every
 
 While it's become quite common to think of modern computers as "smart" devices, this is just a clever illusion constructed by software developers. Even the most powerful computers today are little more than fancy calculators.
 
-Like a calculator, computers are quite good at quickly executing different instructions, but need a human telling them what to do when. A calculator can compute $2^{32} = 4294967296$ in the blink of an eye, but would never do anything if not for the button-pressing human.
+Like a calculator, computers are quite good at quickly executing different instructions, but need a human telling them what to do when. A calculator can compute {{< katex inline >}} 2^{32} = 4294967296 {{< /katex >}} in the blink of an eye, but would never do anything if not for the button-pressing human.
 
 ### Okay computer, make me a sandwich!
 
