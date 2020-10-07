@@ -55,8 +55,8 @@ Digital Tools & Platforms
 Content
 =======
 
-Level 1 (Programming & Python Basics)
--------------------------------------
+Level 1 (Basics of Programming & Python)
+----------------------------------------
 
 ### Topics
 
@@ -65,6 +65,7 @@ Level 1 (Programming & Python Basics)
     -   Numbers
     -   Strings
     -   Lists
+    -   Variables
 -   Writing Programs \[30m\]
     -   Scripts
     -   Input & Output
@@ -90,26 +91,27 @@ Level 2 (Modern Python Scripts)
 
 ### Topics
 
+-   Functions \[20m\]
+    -   Rationale
+    -   Argument types
+    -   Return values
+    -   Documentation strings
+-   Fancier Data \[10m\]
+    -   Tuples
+    -   List methods
+    -   Dictionaries
+    -   `del` and `in`
 -   Modules \[10m\]
     -   Import statements
     -   Running `__main__`
     -   Command-line arguments
--   Fancier Data \[15m\]
-    -   List methods
-    -   Dictionaries
-    -   `del` and `in`
 -   Fancier I/O \[10m\]
     -   Format strings
     -   Files
 -   Fancier Control \[10m\]
     -   Try-catch
-    -   Range
+    -   Nicer looping (`for`, `range`)
     -   Unpacking
--   Functions \[15m\]
-    -   Rationale
-    -   Argument types
-    -   Return values
-    -   Documentation strings
 
 ### Exercises
 
