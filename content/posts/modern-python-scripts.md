@@ -38,7 +38,7 @@ For this course, we'll be working primarily in [Google Colaboratory](https://col
 
 # Getting Funky with Functions
  
-Seeing as the point of writing computer programs was to automate repetitive tasks, writing repetitive code feels a bit like trading one problem for another; luckily, we can to better. Instead of leveraging copy-paste, we can bundle up reusable chunks of code into _functions_ – this allows us to reuse code without duplicating it. That sounds great in theory, but what actually is a function?
+Seeing as the point of writing computer programs was to automate repetitive tasks, writing repetitive code feels a bit like trading one problem for another; luckily, we can do better. Instead of leveraging copy-paste, we can bundle up reusable chunks of code into _functions_ – this allows us to reuse code without duplicating it. That sounds great in theory, but what actually is a function?
 
 Conceptually, you can think of functions as a mini-programs that take their own set of inputs and perform some calculation before returning control to the parent program. That's enough word-soup though, let's take a look at a (very simple) real world example.
 
