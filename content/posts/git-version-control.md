@@ -172,3 +172,8 @@ Useful Links
 
 -   [Visual Git Tutorial](https://learngitbranching.js.org/)
 -   [The Free, Official Git Book](https://git-scm.com/book/en/v2)
+
+Feedback
+========
+
+Don't forget to fill in [this week's survey](https://forms.gle/r1mGLR2YKGHw9upW9)!
