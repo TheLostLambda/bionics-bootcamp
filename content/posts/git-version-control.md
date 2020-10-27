@@ -173,6 +173,13 @@ Useful Links
 -   [Visual Git Tutorial](https://learngitbranching.js.org/)
 -   [The Free, Official Git Book](https://git-scm.com/book/en/v2)
 
+Recording
+=========
+
+Sorry for the god-awful audio, I've since bought a new microphone and am working on growing a couple of brain-cells.
+
+{{< youtube Jxl2tZvUBZ0 >}}
+
 Feedback
 ========
 
