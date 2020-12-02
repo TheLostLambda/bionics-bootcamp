@@ -52,6 +52,8 @@ A couple of hints:
 - For step 2, you should have a list of either 4 or 2 triangles. If you have 4, take a close look to see if the triangles are really unique, of if two sides have just been swapped
 - If you are going the comprehension route, note that you can use several `for ... in`'s in a single comprehension
 
+In the end, the magical triangle you are looking for has side lengths of 6, 8, and 10.
+
 Arduino
 =======
 
