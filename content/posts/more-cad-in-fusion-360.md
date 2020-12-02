@@ -13,7 +13,7 @@ tags:
 ---
 
 Summary
-======
+=======
 
 This second lesson in CAD and Fusion 360 covered:
 
