@@ -103,7 +103,7 @@ To check your answer, see [the model here](https://a360.co/2oDDxzf). When made o
 Recording
 =========
 
-The session hasn't happened just yet, but check back for the full recording later!
+{{< youtube FDgcMf5jJ4g >}}
 
 Feedback
 ========
