@@ -38,9 +38,18 @@ A tentative structure of the 10 week course is laid out below:
 ### Semester 2 – Specialist Topics
 While the first semester focuses on progressively building up the knowledge that every team member needs, the second semester is comprised of more stand-alone, specialist topics.
 
-Some things currently being considered for the second semester are:
-  - Signal Processing & Machine Learning
-  - Laser Cutter Operation
-  - PCB Design
-  - Soldering
-  - Advanced CAD with GraphCAD Society
+A tentative structure of the 10 week course is laid out below:
+  1) Advanced(ish) 3D Printing
+  2) Object Oriented Programming in Python
+  3) Machine Learning (Data Shaping & Preparation)
+  4) Machine Learning (Model Choice & Implementation)
+  5) Machine Learning (Model Evaluation & Improvements)
+  6) PCB Design (Schematics & Datasheets)
+  7) PCB Design (Footprints & Routing)
+  8) ???
+  9) ???
+  10) Project Showcase
+
+You'll notice there are a couple of weeks that haven't been filled in yet! That's where you come in! Help us decide which other topics you'd like to cover this semester. I've been chatting a bit with GraphCAD about collaborating on a more advanced CAD session, but things are still a bit up in the air.
+
+Share your ideas using [this Google form](https://forms.gle/rdqJBjmi8kFws1BV9)!
