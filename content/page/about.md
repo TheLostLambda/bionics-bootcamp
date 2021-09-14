@@ -25,10 +25,10 @@ The goal of the first semester is to help new members build the foundation they 
 
 A tentative structure of the 10 week course is laid out below:
   1) An Introduction to Programming in Python
-  2) More Playing With Python
-  3) Git and Version Control
+  2) Object Oriented Programming in Python & Modern Python Scripts
+  3) Git & Version Control
   4) Electrical Circuits & Breadboard Basics
-  5) Programming Hardware – Arduino Basics
+  5) Programming Hardware – Introduction to Arduino
   6) Further Fun With Arduino
   7) 3D Design in Fusion 360
   8) More Modelling in Fusion 360
