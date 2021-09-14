@@ -36,20 +36,17 @@ A tentative structure of the 10 week course is laid out below:
   10) Project Showcase
 
 ### Semester 2 – Specialist Topics
-While the first semester focuses on progressively building up the knowledge that every team member needs, the second semester is comprised of more stand-alone, specialist topics.
+While the first semester focuses on progressively building up the knowledge that every team member needs, the second semester is comprised of more stand-alone, specialist topics. That is why it is left to the society to decide what topics are most interesting to cover. A few of them are given below as an example.
 
-A tentative structure of the 10 week course is laid out below:
-  1) Advanced(ish) 3D Printing
-  2) Object Oriented Programming in Python
-  3) Machine Learning (Data Shaping & Preparation)
-  4) Machine Learning (Model Choice & Implementation)
-  5) Machine Learning (Model Evaluation & Improvements)
-  6) PCB Design (Schematics & Datasheets)
-  7) PCB Design (Footprints & Routing)
-  8) ???
-  9) ???
-  10) Project Showcase
+  * Advanced(ish) 3D Printing
+  * Object Oriented Programming in Python
+  * Machine Learning (Data Shaping & Preparation)
+  * Machine Learning (Model Choice & Implementation)
+  * Machine Learning (Model Evaluation & Improvements)
+  * Machine Learning (The Mathematics behind it all)
+  * PCB Design (Schematics & Datasheets)
+  * PCB Design (Footprints & Routing)
 
-You'll notice there are a couple of weeks that haven't been filled in yet! That's where you come in! Help us decide which other topics you'd like to cover this semester. I've been chatting a bit with GraphCAD about collaborating on a more advanced CAD session, but things are still a bit up in the air.
+This is not an exhaustive list and is prone to change. That's where you come in! Help us decide which other topics you'd like to cover this semester!
 
-Share your ideas using [this Google form](https://forms.gle/rdqJBjmi8kFws1BV9)!
+Share your ideas using [this Google form](https://forms.gle/Tp1FMdbWGxc6Kb7GA)!
