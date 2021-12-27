@@ -1,5 +1,5 @@
-baseURL = "https://sheffield-bionics.gitlab.io/bionics-general/"
-title = "Bionics Bootcamp"
+baseURL = "https://thelostlambda.gitlab.io/bionics-general/"
+title = "Brooks's Bionics Bootcamp"
 
 theme = "minimo"
 
@@ -75,7 +75,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://gitlab.com/sheffield-bionics/bionics-general"
+url = "https://gitlab.com/TheLostLambda/bionics-general"
 
 [[menu.main]]
 name = "Society"
